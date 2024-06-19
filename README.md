@@ -19,7 +19,7 @@ Essa API foi desenvolvida para criar, alterar, listar e deletar.
 
  Clone o repositório:
 ```sh
-   git clone https://github.com/seu-usuario/lumi-projeto.git
+   git clone https://github.com/kirkdouglasouza/crud.git
 ```
 ### Backend
 ```sh
