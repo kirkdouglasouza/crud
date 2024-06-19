@@ -15,7 +15,7 @@ Essa API foi desenvolvida para criar, alterar, listar e deletar.
 
 - Node.js
 - npm 
-- Sequelize Client
+- MYSQL
 
  Clone o repositório:
 ```sh
